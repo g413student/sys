@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u041A\u041E\u041B\u041B\u0415\u0414\u0416\\4 \u041A\u0423\u0420\u0421 \u0412\u042B\u041F\u0423\u0421\u041A\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D \u0410\u041F\u0420\u0415\u041B\u042C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9E610-3AEE-4A01-A77B-95F882BF83BD}|UnitTest\\UnitTest.csproj|f:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441 \u0432\u044B\u043F\u0443\u0441\u043A\\\u044D\u043A\u0437\u0430\u043C\u0435\u043D \u0430\u043F\u0440\u0435\u043B\u044C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\triangle\\unittest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF9E610-3AEE-4A01-A77B-95F882BF83BD}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F35F9-54A5-43F8-A608-D23FF1986552}|Triangle\\Triangle.csproj|f:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\4 \u043A\u0443\u0440\u0441 \u0432\u044B\u043F\u0443\u0441\u043A\\\u044D\u043A\u0437\u0430\u043C\u0435\u043D \u0430\u043F\u0440\u0435\u043B\u044C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\triangle\\triangle\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F35F9-54A5-43F8-A608-D23FF1986552}|Triangle\\Triangle.csproj|solutionrelative:triangle\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method.cs",
+              "DocumentMoniker": "F:\\\u041A\u041E\u041B\u041B\u0415\u0414\u0416\\4 \u041A\u0423\u0420\u0421 \u0412\u042B\u041F\u0423\u0421\u041A\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D \u0410\u041F\u0420\u0415\u041B\u042C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Triangle\\Triangle\\Method.cs",
+              "RelativeDocumentMoniker": "Triangle\\Method.cs",
+              "ToolTip": "F:\\\u041A\u041E\u041B\u041B\u0415\u0414\u0416\\4 \u041A\u0423\u0420\u0421 \u0412\u042B\u041F\u0423\u0421\u041A\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D \u0410\u041F\u0420\u0415\u041B\u042C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Triangle\\Triangle\\Method.cs",
+              "RelativeToolTip": "Triangle\\Method.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:36:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "F:\\\u041A\u041E\u041B\u041B\u0415\u0414\u0416\\4 \u041A\u0423\u0420\u0421 \u0412\u042B\u041F\u0423\u0421\u041A\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D \u0410\u041F\u0420\u0415\u041B\u042C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Triangle\\UnitTest\\Tests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\Tests.cs",
+              "ToolTip": "F:\\\u041A\u041E\u041B\u041B\u0415\u0414\u0416\\4 \u041A\u0423\u0420\u0421 \u0412\u042B\u041F\u0423\u0421\u041A\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D \u0410\u041F\u0420\u0415\u041B\u042C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Triangle\\UnitTest\\Tests.cs",
+              "RelativeToolTip": "UnitTest\\Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:34:46.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\bin\Debug\Triangle.exe.config
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\bin\Debug\Triangle.exe
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\bin\Debug\Triangle.pdb
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.Form.resources
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.exe
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Triangle\Triangle\obj\Debug\Triangle.pdb

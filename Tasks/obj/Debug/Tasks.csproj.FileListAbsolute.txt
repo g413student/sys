@@ -1,0 +1,7 @@
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\bin\Debug\Tasks.exe.config
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\bin\Debug\Tasks.exe
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\bin\Debug\Tasks.pdb
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\obj\Debug\Tasks.exe
+F:\КОЛЛЕДЖ\4 КУРС ВЫПУСК\Экзамен АПРЕЛЬ колледж\Тестирование\Tasks\obj\Debug\Tasks.pdb
